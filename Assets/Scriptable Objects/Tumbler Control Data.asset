@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9fe3d10819ae3b440bdd4f536a198c57, type: 3}
+  m_Name: Tumbler Control Data
+  m_EditorClassIdentifier: 
+  pipePartPrefab: {fileID: 8190026047000852771, guid: 08e22932b7e2f8f4f8111169e48dbffc, type: 3}
+  yellowMat: {fileID: 2100000, guid: f68a3a19aa35bae48bada6c7c9d7f19d, type: 2}
+  greenMat: {fileID: 2100000, guid: cffb784be8962fb4f931fd8c806e5d17, type: 2}
